@@ -12,7 +12,6 @@ while choice != "Q":
     if choice == "C":
         celsius = float(input("Celsius: "))
         fahrenheit = celsius * 9.0 / 5 + 32
-        # TODO why the need for .format?
         print("Result: {:.2f} F".format(fahrenheit))
         # print("Result:", fahrenheit, "Fahrenheit")
     elif choice == "F":

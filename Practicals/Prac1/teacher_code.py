@@ -1,19 +1,20 @@
-print("Number Sequence generator")
 
-print("(E)ven Numbers")
-print("(O)dd Numbers")
-print("(S)quare Numbers")
-print("(Q)uit")
-print()
-
+MENU = """
+Number Sequence generator
+E - Even Numbers
+O - Odd Numbers
+S - Square Numbers
+Q - QUIT
+"""
+print(MENU)
 user_input = input(">> ").upper()
 
-
 while user_input != "Q":
-    # EVEN
-    lower_bound = int(input("Select the smaller number: "))
-    upper_bound = int(input("Select the larger number: "))
+    if user_input in("E", "O", "S"):
+        lower_bound = int(input("Select the smaller number: "))
+        upper_bound = int(input("Select the larger number: "))
 
+    # EVEN
     if user_input == "E":
         if lower_bound % 2 == 0:
             for i in range(lower_bound, upper_bound + 1, 2):
@@ -34,12 +35,7 @@ while user_input != "Q":
             print(i*i, end=" ")
     else:
         print("Invalid input")
-
-    print()
-    print("Number Sequence generator")
-    print("(E)ven Numbers")
-    print("(O)dd Numbers")
-    print("(S)quare Numbers")
-    print("(Q)uit")
-    print()
+    print("\n")
+    print(MENU)
     user_input = input(">> ").upper()
+print("Program Finished")

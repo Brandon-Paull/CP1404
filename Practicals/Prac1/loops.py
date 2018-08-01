@@ -21,4 +21,3 @@ print("\n")
 for i in range(number_of_stars):
     print('*' * (i + 1), end=' ')
     print()
-print()

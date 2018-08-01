@@ -8,4 +8,3 @@ tariff = int(input("Which tariff? 11 or 31: "))
 cents_per_kWh = int(input("Enter cents per kWh: "))
 daily_use_kWh = int(input("Enter daily use in kWh: "))
 number_of_billing_days = int(input("Enter number of billing days: "))
-
