@@ -1,4 +1,3 @@
-
 number_of_items = int(input("Number of items: "))
 total = 0
 while number_of_items <= 0:
@@ -13,4 +12,3 @@ for i in range(number_of_items):
 if total > 100:
     total *= 0.9
 print("Total price for ", number_of_items, " item(s) is $", total, sep='')
-

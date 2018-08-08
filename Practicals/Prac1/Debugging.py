@@ -4,7 +4,7 @@ Broken program to determine score status
 """
 
 score = float(input("Enter score: "))
-if score in range(0, 50):
+if score in range(0, 50):# TODO Only counts integers not floats
     print("Bad")
 elif score in range(50, 90):
     print("Pass")
