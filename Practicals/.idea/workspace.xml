@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c9d16d-117c-44c7-ab2e-df560160f00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jc462737.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac 2/ascii_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac 2/word_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General Testing/password_hider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture Stuff/Week 2 Lecture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac 2/Output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prac 2/Output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac 2/capatilist_conrad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac 2/capatilist_conrad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac 2/password_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac 2/password_checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac1/Debugging.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac1/Debugging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac1/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac1/loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac1/shopCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac1/shopCalculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac1/teacher_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac1/teacher_code.py" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +19,12 @@
     <SUITE FILE_PATH="coverage/Practicals$files.coverage" NAME="files Coverage Results" MODIFIED="1533359494933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac 2" />
     <SUITE FILE_PATH="coverage/Practicals$exceptions_demo.coverage" NAME="exceptions_demo Coverage Results" MODIFIED="1533356089918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac 2" />
     <SUITE FILE_PATH="coverage/CP1404_PRACTICALS$Debugging.coverage" NAME="Debugging Coverage Results" MODIFIED="1532867004568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac1" />
-    <SUITE FILE_PATH="coverage/Practicals$loops.coverage" NAME="loops Coverage Results" MODIFIED="1533616327393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac1" />
     <SUITE FILE_PATH="coverage/Practicals$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1533614493329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac 2" />
+    <SUITE FILE_PATH="coverage/Practicals$loops.coverage" NAME="loops Coverage Results" MODIFIED="1533712619124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac1" />
     <SUITE FILE_PATH="coverage/Practicals$word_generator.coverage" NAME="word_generator Coverage Results" MODIFIED="1533620922870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac 2" />
     <SUITE FILE_PATH="coverage/Practicals$shopCalculator.coverage" NAME="shopCalculator Coverage Results" MODIFIED="1533013100216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac1" />
     <SUITE FILE_PATH="coverage/CP1404_PRACTICALS$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1532868288856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac1" />
+    <SUITE FILE_PATH="coverage/Practicals$password_hider.coverage" NAME="password_hider Coverage Results" MODIFIED="1533713004035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/General Testing" />
     <SUITE FILE_PATH="coverage/Practicals$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1533351274498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac 2" />
     <SUITE FILE_PATH="coverage/CP1404_Practicals$Debugging.coverage" NAME="Debugging Coverage Results" MODIFIED="1532837563335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac1" />
     <SUITE FILE_PATH="coverage/CP1404_PRACTICALS$teacher_code.coverage" NAME="teacher_code Coverage Results" MODIFIED="1532866937341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac1" />
@@ -59,39 +49,21 @@
     <favorites_list name="Practicals" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="password_checker.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Prac 2/password_checker.py">
+    <leaf>
+      <file leaf-file-name="password_hider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General Testing/password_hider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loops.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Prac1/loops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
               <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ascii_table.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Prac 2/ascii_table.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="files.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Prac 2/files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_generator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Prac 2/word_generator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -130,6 +102,7 @@
         <option value="$PROJECT_DIR$/Prac1/Debugging.py" />
         <option value="$PROJECT_DIR$/Prac 2/ascii_table.py" />
         <option value="$PROJECT_DIR$/Prac 2/word_generator.py" />
+        <option value="$PROJECT_DIR$/General Testing/password_hider.py" />
       </list>
     </option>
   </component>
@@ -143,10 +116,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1697" />
-    <option name="height" value="1037" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1700" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -164,12 +137,12 @@
             <path>
               <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="Prac1" type="462c0819:PsiDirectoryNode" />
+              <item name="General Testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="Prac 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Prac1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.word_generator">
+  <component name="RunManager" selected="Python.password_hider">
     <configuration name="Debugging" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404 Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,25 +229,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="capatilist_conrad" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CP1404 Practicals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac 2/capatilist_conrad.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404 Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,6 +243,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac1/loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="password_hider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CP1404 Practicals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General Testing/password_hider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,19 +315,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Python.capatilist_conrad" />
       <item itemvalue="Python.Debugging" />
       <item itemvalue="Python.loops" />
       <item itemvalue="Python.ascii_table" />
       <item itemvalue="Python.word_generator" />
+      <item itemvalue="Python.password_hider" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.password_hider" />
+        <item itemvalue="Python.loops" />
         <item itemvalue="Python.word_generator" />
         <item itemvalue="Python.ascii_table" />
-        <item itemvalue="Python.loops" />
         <item itemvalue="Python.Debugging" />
-        <item itemvalue="Python.capatilist_conrad" />
       </list>
     </recent_temporary>
   </component>
@@ -383,47 +356,47 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32763532" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22147651" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32905984" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32763532" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32905984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23154363" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32937366" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,13 +444,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Prac 2/password_checker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Prac 2/ascii_table.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -753,13 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Prac1/loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Prac1/sales_bonus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -790,29 +749,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prac 2/password_checker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prac 2/word_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="153">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Prac 2/ascii_table.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="271">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Prac 2/files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac 2/word_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General Testing/password_hider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac1/loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
