@@ -1,14 +1,9 @@
-"""
-CP1404/CP5632 - Practical
-Broken program to determine score status
-"""
-
 score = float(input("Enter score: "))
-if score in range(0, 50):# TODO Only counts integers not floats
-    print("Bad")
-elif score in range(50, 90):
-    print("Pass")
-elif score in range(90, 101):
-    print("Excellent")
-else:
+if score < 0 or score > 100:
     print("Invalid score")
+elif score >= 90:
+    print("Excellent")
+elif score >= 50:
+    print("Pass")
+else:
+    print("Bad")
