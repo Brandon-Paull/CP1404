@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e0a30b5-9c32-41c0-a4f7-0d9a4f8f0cee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practicals/Prac_02/Output.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practicals/Prac_02/numbers.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practicals/Prac_02/string_formatting_examples.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/CP1404.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/Output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/numbers.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/string_formatting_examples.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sandbox/.idea/Sandbox.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sandbox/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sandbox/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sandbox/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Sandbox/.idea/workspace.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/ascii_table.py" afterPath="$PROJECT_DIR$/Practicals/Prac_02/ascii_table.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/capatilist_conrad.py" afterPath="$PROJECT_DIR$/Practicals/Prac_02/capatilist_conrad.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/exceptions_demo.py" afterPath="$PROJECT_DIR$/Practicals/Prac_02/exceptions_demo.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/exceptions_to_complete.py" afterPath="$PROJECT_DIR$/Practicals/Prac_02/exceptions_to_complete.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/files.py" afterPath="$PROJECT_DIR$/Practicals/Prac_02/files.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/password_checker.py" afterPath="$PROJECT_DIR$/Practicals/Prac_02/password_checker.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac 2/word_generator.py" afterPath="$PROJECT_DIR$/Practicals/Prac_02/word_generator.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac1/Debugging.py" afterPath="$PROJECT_DIR$/Practicals/Prac_01/Debugging.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac1/electricity_bill.py" afterPath="$PROJECT_DIR$/Practicals/Prac_01/electricity_bill.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac1/hello.py" afterPath="$PROJECT_DIR$/Practicals/Prac_01/hello.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac1/loops.py" afterPath="$PROJECT_DIR$/Practicals/Prac_01/loops.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac1/sales_bonus.py" afterPath="$PROJECT_DIR$/Practicals/Prac_01/sales_bonus.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac1/shopCalculator.py" afterPath="$PROJECT_DIR$/Practicals/Prac_01/shopCalculator.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac1/teacher_code.py" afterPath="$PROJECT_DIR$/Practicals/Prac_01/teacher_code.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac1/temperatures.py" afterPath="$PROJECT_DIR$/Practicals/Prac_01/temperatures.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac3/broken_score.py" afterPath="$PROJECT_DIR$/Practicals/Prac_03/broken_score.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac3/gopher_population.py" afterPath="$PROJECT_DIR$/Practicals/Prac_03/gopher_population.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac3/password_hider.py" afterPath="$PROJECT_DIR$/Practicals/Prac_03/password_hider.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac3/temperatures.py" afterPath="$PROJECT_DIR$/Practicals/Prac_03/temperatures.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practicals/Prac3/word_generator.py" afterPath="$PROJECT_DIR$/Practicals/Prac_03/word_generator.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -708,7 +671,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
