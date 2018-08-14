@@ -32,6 +32,4 @@ def convert_temperature(choice):
         choice = get_choice()
 
 
-print("Thank you.")
-
 main()

@@ -2,7 +2,7 @@
 CP1404/CP5632 - Practical
 Capitalist Conrad wants a stock price simulator for a volatile stock.
 The price starts off at $10.00, and, at the end of every day there is
-a 50% chance it increases by anywhere from between 0 to 10%, and
+a 50% chance it incSreases by anywhere from between 0 to 10%, and
 a 50% chance that it decreases by anywhere from between 0 to 5%.
 If the price rises above $1000, or falls below $0.01, the program should end.
 The price should be displayed to the nearest cent (e.g. $33.59, not $33.5918232901)
@@ -17,9 +17,9 @@ INITIAL_PRICE = 10.0
 
 day_number = 0
 price = INITIAL_PRICE
-out_file = open("Output.txt", 'w')
+OUT_FILE = open("Output.txt", 'w')
 
-print("Starting Price is ${:,.2f}".format(price), file=out_file)
+print("Starting Price is ${:,.2f}".format(price), file=OUT_FILE)
 
 while MIN_PRICE <= price <= MAX_PRICE:
     price_change = 0
@@ -37,5 +37,5 @@ while MIN_PRICE <= price <= MAX_PRICE:
     price *= (1 + price_change)
     day_number += 1
     # write output to file(output.txt)
-    print("Day {:}: ${:,.2f}".format(day_number, price), file=out_file)
-out_file.close()
+    print("Day {:}: ${:,.2f}".format(day_number, price), file=OUT_FILE)
+OUT_FILE.close()

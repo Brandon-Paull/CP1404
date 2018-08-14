@@ -1,1 +1,1 @@
-Contains all work for CP1404
+Contains all work for CP1404 (Programming 2)
