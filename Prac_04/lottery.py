@@ -8,7 +8,7 @@ MAXIMUM = 45
 def main():
     """Quick Picks - generate random numbers """
     rounds = int(input("How many quick picks? "))
-    while rounds < 0:
+    while rounds <= 0:
         print("Rounds must be greater than 0")
         rounds = int(input("How many quick picks? "))
 
