@@ -22,12 +22,29 @@ def main():
         score_numbers = [int(value) for value in score_strings]
         score_values.append(score_numbers)
     scores_file.close()
-    for i in range(len(subjects)):
-        print(subjects[i], "Scores:")
-        for score in score_values[i]:
-            print(score)
-        print("Max:", max(score_values[i]))
-        print()
+    scores_by_subject = reorganise_scores_by_subject(score_values)
+    display_subject_details(scores_by_subject, subjects)
+
+
+def display_subject_details(scores_by_subject, subject_names):
+    for i, scores_for_a_subject in enumerate(scores_by_subject):
+        print(subject_names[i], "Scores:")
+        for score in scores_for_a_subject:
+            print("{:>2}".format(score))
+        print("Max: {:2}".format(max(scores_for_a_subject)))
+        print("Min: {:2}".format(min(scores_for_a_subject)))
+        print("Avg: {:5.2f}\n".format((sum(scores_for_a_subject) / len(scores_for_a_subject))))
+
+
+def reorganise_scores_by_subject(score_values):
+    subject_scores = []
+    number_of_subjects = len(score_values[0])
+    for i in range(number_of_subjects):
+        scores_for_a_subject = []
+        for scores in score_values:
+            scores_for_a_subject.append(scores.pop(0))
+        subject_scores.append(scores_for_a_subject)
+    return subject_scores
 
 
 main()
