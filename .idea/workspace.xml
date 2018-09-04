@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce0a948-8bfb-4bad-bbee-b985397722f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Prac_05/date_of_birth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_05/list_to_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_06/Guitar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_06/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_06/guitar_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_06/guitars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_06/languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_06/programming_language.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_06/used_cars.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -15,13 +20,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Practicals$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1535170592418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../CP1404 Assignment/a1-Brandon-Paull" />
-    <SUITE FILE_PATH="coverage/Practicals$scores.coverage" NAME="scores Coverage Results" MODIFIED="1535432483722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_04" />
-    <SUITE FILE_PATH="coverage/Practicals$lottery.coverage" NAME="lottery Coverage Results" MODIFIED="1535170445059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_04" />
-    <SUITE FILE_PATH="coverage/Practicals$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1535441736365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_05" />
+    <SUITE FILE_PATH="coverage/Practicals$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1535792742421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
+    <SUITE FILE_PATH="coverage/Practicals$car.coverage" NAME="car Coverage Results" MODIFIED="1535773503902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
     <SUITE FILE_PATH="coverage/Practicals$list_to_dictionary.coverage" NAME="list_to_dictionary Coverage Results" MODIFIED="1535771534451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_05" />
-    <SUITE FILE_PATH="coverage/Practicals$word_occurrences.coverage" NAME="word_occurrences Coverage Results" MODIFIED="1535441352612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_05" />
     <SUITE FILE_PATH="coverage/Practicals$hex_lookup.coverage" NAME="hex_lookup Coverage Results" MODIFIED="1535441996136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_05" />
     <SUITE FILE_PATH="coverage/Practicals$date_of_birth.coverage" NAME="date_of_birth Coverage Results" MODIFIED="1535770793221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_05" />
+    <SUITE FILE_PATH="coverage/Practicals$scores.coverage" NAME="scores Coverage Results" MODIFIED="1535432483722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_04" />
+    <SUITE FILE_PATH="coverage/Practicals$languages.coverage" NAME="languages Coverage Results" MODIFIED="1535778534661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
+    <SUITE FILE_PATH="coverage/Practicals$lottery.coverage" NAME="lottery Coverage Results" MODIFIED="1535170445059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_04" />
+    <SUITE FILE_PATH="coverage/Practicals$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1535441736365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_05" />
+    <SUITE FILE_PATH="coverage/Practicals$word_occurrences.coverage" NAME="word_occurrences Coverage Results" MODIFIED="1535441352612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_05" />
+    <SUITE FILE_PATH="coverage/Practicals$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1535795651499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
+    <SUITE FILE_PATH="coverage/Practicals$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1535775352349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
+    <SUITE FILE_PATH="coverage/Practicals$programming_language.coverage" NAME="programming_language Coverage Results" MODIFIED="1535776281091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -113,33 +124,37 @@
     <session id="1727201148">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="22" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="721" />
-          <entry key="txt" value="31" />
+          <entry key="dummy" value="9" />
+          <entry key="py" value="3236" />
+          <entry key="txt" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="721" />
+          <entry key="PLAIN_TEXT" value="106" />
+          <entry key="Python" value="3236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -156,7 +171,46 @@
     <favorites_list name="Practicals" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prac_06/Guitar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <marker date="1535792734328" expanded="true" signature="52:53" ph="..." />
+                <marker date="1535792734328" expanded="true" signature="52:58" ph="..." />
+                <marker date="1535792734328" expanded="true" signature="102:183" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prac_06/guitar_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Prac_06/guitars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <marker date="1535795649936" expanded="true" signature="47:48" ph="..." />
+                <marker date="1535795649936" expanded="true" signature="47:149" ph="..." />
+                <marker date="1535795649936" expanded="true" signature="47:952" ph="..." />
+                <marker date="1535795649936" expanded="true" signature="47:954" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -184,6 +238,13 @@
         <option value="$PROJECT_DIR$/Prac_05/word_occurrences.py" />
         <option value="$PROJECT_DIR$/Prac_05/date_of_birth.py" />
         <option value="$PROJECT_DIR$/Prac_05/list_to_dictionary.py" />
+        <option value="$PROJECT_DIR$/Prac_06/car.py" />
+        <option value="$PROJECT_DIR$/Prac_06/used_cars.py" />
+        <option value="$PROJECT_DIR$/Prac_06/programming_language.py" />
+        <option value="$PROJECT_DIR$/Prac_06/languages.py" />
+        <option value="$PROJECT_DIR$/Prac_06/guitar_test.py" />
+        <option value="$PROJECT_DIR$/Prac_06/Guitar.py" />
+        <option value="$PROJECT_DIR$/Prac_06/guitars.py" />
       </list>
     </option>
   </component>
@@ -193,10 +254,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="y" value="31" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -214,7 +276,7 @@
             <path>
               <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="Prac_05" type="462c0819:PsiDirectoryNode" />
+              <item name="Prac_06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list_to_dictionary">
+  <component name="RunManager" selected="Python.guitars">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,7 +346,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="date_of_birth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="guitar_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,12 +354,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_05/date_of_birth.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_06/guitar_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hex_lookup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="guitars" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,12 +376,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_05/hex_lookup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_06/guitars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +390,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_to_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="languages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,12 +398,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_05/list_to_dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_06/languages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,7 +412,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="state_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="programming_language" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,12 +420,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_05/state_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_06/programming_language.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,7 +434,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word_occurrences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="used_cars" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -380,12 +442,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_05/word_occurrences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_06/used_cars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -404,19 +466,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hex_lookup" />
-      <item itemvalue="Python.word_occurrences" />
-      <item itemvalue="Python.state_names" />
-      <item itemvalue="Python.date_of_birth" />
-      <item itemvalue="Python.list_to_dictionary" />
+      <item itemvalue="Python.used_cars" />
+      <item itemvalue="Python.programming_language" />
+      <item itemvalue="Python.languages" />
+      <item itemvalue="Python.guitar_test" />
+      <item itemvalue="Python.guitars" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.list_to_dictionary" />
-        <item itemvalue="Python.date_of_birth" />
-        <item itemvalue="Python.state_names" />
-        <item itemvalue="Python.word_occurrences" />
-        <item itemvalue="Python.hex_lookup" />
+        <item itemvalue="Python.guitars" />
+        <item itemvalue="Python.guitar_test" />
+        <item itemvalue="Python.languages" />
+        <item itemvalue="Python.programming_language" />
+        <item itemvalue="Python.used_cars" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535443277098</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Complete prac_05 practice section questions 1 and 2">
+      <created>1535771722145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535771722145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -459,8 +528,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15302013" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15503356" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -522,17 +592,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create word_occurrences code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create word_occurrences code" />
+    <MESSAGE value="Complete prac_05 practice section questions 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete prac_05 practice section questions 1 and 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore.gitignore" />
-    <entry file="file://$PROJECT_DIR$/.gitignore.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../CP1404 Assignment/a1-Brandon-Paull/assignment1.py" />
     <entry file="file://$PROJECT_DIR$/Prac_04/lottery.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -617,8 +681,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1705629532/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1645">
+          <caret line="825" column="7" selection-start-line="825" selection-start-column="7" selection-end-line="825" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac_06/used_cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac_06/programming_language.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <marker date="1535771642112" expanded="true" signature="12:172" ph="..." />
+            <marker date="1535776396746" expanded="true" signature="26:27" ph="..." />
+            <marker date="1535776396746" expanded="true" signature="26:32" ph="..." />
+            <marker date="1535776396746" expanded="true" signature="84:88" ph="..." />
+            <marker date="1535776396746" expanded="true" signature="84:205" ph="..." />
+            <marker date="1535776396746" expanded="true" signature="226:231" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac_06/languages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac_06/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1535775239846" expanded="true" signature="436:438" ph="..." />
+            <marker date="1535775239846" expanded="true" signature="436:442" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac_06/Guitar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <marker date="1535792734328" expanded="true" signature="52:53" ph="..." />
+            <marker date="1535792734328" expanded="true" signature="52:58" ph="..." />
+            <marker date="1535792734328" expanded="true" signature="102:183" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac_06/guitar_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac_06/guitars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <marker date="1535795649936" expanded="true" signature="47:48" ph="..." />
+            <marker date="1535795649936" expanded="true" signature="47:149" ph="..." />
+            <marker date="1535795649936" expanded="true" signature="47:952" ph="..." />
+            <marker date="1535795649936" expanded="true" signature="47:954" ph="..." />
           </folding>
         </state>
       </provider>
