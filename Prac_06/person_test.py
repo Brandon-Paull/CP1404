@@ -9,7 +9,9 @@ Q - Quit
 
 def main():
     print(MENU)
-    people = []
+    person1 = Person("Brandon", "Paull", 19)
+    person2 = Person("Thanos", "The Mad Titan", 2000)
+    people = [person1, person2]
 
     choice = input(">>> ").upper()
     while choice != "Q":
@@ -19,7 +21,7 @@ def main():
             age = int(input("Age: "))
             people.append(Person(first_name, last_name, age))
         elif choice == "L":
-            print("List in progress")
+            print(people)
         else:
             print("Invalid menu choice")
         print(MENU)

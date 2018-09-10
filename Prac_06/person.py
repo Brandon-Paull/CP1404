@@ -8,3 +8,5 @@ class Person:
     def __str__(self):
         return "{} {} - {}".format(self.first_name, self.last_name, self.age)
 
+    def __repr__(self):
+        return "{} {} {}".format(self.first_name, self.last_name, self.age)
