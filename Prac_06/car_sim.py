@@ -15,7 +15,7 @@ def main():
     print("{}, fuel={}, odo={}".format(my_car.name, my_car.fuel, my_car.odometer))
     print(MENU)
 
-    choice = input("Enter your choice: ").upper()
+    choice = input(">>> ").upper()
     while choice != "Q":
         if choice == "D":
             drive_car(my_car)
@@ -26,7 +26,7 @@ def main():
         print()
         print(my_car)
         print(MENU)
-        choice = input("Enter your choice: ").upper()
+        choice = input(">>> ").upper()
     print("Goodbye {}'s owner".format(my_car.name))
 
 

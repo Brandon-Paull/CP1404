@@ -10,6 +10,7 @@ for language in languages:
     if language.is_dynamic():
         print(language.name)
 
+print()
 print(ruby)
 print(python)
 print(visual_basic)
