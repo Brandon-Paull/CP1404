@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce0a948-8bfb-4bad-bbee-b985397722f8" name="Default Changelist" comment="Complete prac_05 practice section questions 1 and 2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_07/display_names.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_07/display_names.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_07/my_miles_to_km.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_07/my_miles_to_km.py" />
+    <list default="true" id="0ce0a948-8bfb-4bad-bbee-b985397722f8" name="Default Changelist" comment="Deleted unused import">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_07/display_names.py" afterPath="$PROJECT_DIR$/Prac_07/display_names.py" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -210,8 +207,8 @@
       <file leaf-file-name="display_names.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Prac_07/display_names.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -745,7 +742,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535771722145</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Complete prac_07">
+      <created>1537248823191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537248823191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -821,7 +825,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create word_occurrences code" />
     <MESSAGE value="Complete prac_05 practice section questions 1 and 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete prac_05 practice section questions 1 and 2" />
+    <MESSAGE value="Complete prac_07" />
+    <MESSAGE value="Deleted unused import" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted unused import" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1193,8 +1199,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prac_07/display_names.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
