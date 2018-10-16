@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce0a948-8bfb-4bad-bbee-b985397722f8" name="Default Changelist" comment="Start Prac_09&#10;">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/AngelsWeHaveHeard.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Angels_from_the_Realm_of_Glory.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Away_In_A_Manger.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/HarkTheHerald.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/JoyToTheWorld.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Merry_Merry_Christmas.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/NewbornKing.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/OComeAllYeFaithful.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Come_Emmanuel.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Come_Let_Us_Adore_Him_(Hillsong).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Holy_Night.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/SilentNight.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/TheFirstNoel.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/We_Three_Kings.txt" afterPath="" />
+    <list default="true" id="0ce0a948-8bfb-4bad-bbee-b985397722f8" name="Default Changelist" comment="Complete first part of Prac_09&#10;&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_09/cleanup_files.py" afterPath="$PROJECT_DIR$/Prac_09/cleanup_files.py" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -231,8 +216,8 @@
       <file leaf-file-name="cleanup_files.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Prac_09/cleanup_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            <state relative-caret-position="187">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -819,7 +804,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539665208667</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Complete first part of Prac_09&#10;&#10;">
+      <created>1539669077983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539669077983</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -833,7 +825,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2547619" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -841,7 +833,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32829374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -898,7 +890,8 @@
     <MESSAGE value="Complete prac_07" />
     <MESSAGE value="Deleted unused import" />
     <MESSAGE value="Start Prac_09&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Prac_09&#10;" />
+    <MESSAGE value="Complete first part of Prac_09&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete first part of Prac_09&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1160,8 +1153,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prac_09/cleanup_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        <state relative-caret-position="187">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
           <folding />
         </state>
       </provider>
