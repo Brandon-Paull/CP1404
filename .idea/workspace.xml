@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce0a948-8bfb-4bad-bbee-b985397722f8" name="Default Changelist" comment="Start Prac_09&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/avvisitor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/AngelsWeHaveHeard.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Angels_from_the_Realm_of_Glory.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Away_In_A_Manger.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/HarkTheHerald.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/JoyToTheWorld.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Merry_Merry_Christmas.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/NewbornKing.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/OComeAllYeFaithful.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Come_Emmanuel.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Come_Let_Us_Adore_Him_(Hillsong).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Holy_Night.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_little_town_of_bethlehem.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/SilentNight.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/TheFirstNoel.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/We_Three_Kings.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/cleanup_files.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prac_09/os_demos.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/AngelsWeHaveHeard.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Angels_from_the_Realm_of_Glory.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Away_In_A_Manger.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/HarkTheHerald.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/JoyToTheWorld.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/Merry_Merry_Christmas.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/NewbornKing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/OComeAllYeFaithful.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Come_Emmanuel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Come_Let_Us_Adore_Him_(Hillsong).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/O_Holy_Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/SilentNight.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/TheFirstNoel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Prac_09/Lyrics/Christmas/We_Three_Kings.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prac_09/cleanup_files.py" afterPath="$PROJECT_DIR$/Prac_09/cleanup_files.py" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,6 +62,7 @@
     <SUITE FILE_PATH="coverage/Practicals$guitars_app.coverage" NAME="guitars_app Coverage Results" MODIFIED="1536639126013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_07" />
     <SUITE FILE_PATH="coverage/Practicals$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1535170592418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../CP1404 Assignment/a1-Brandon-Paull" />
     <SUITE FILE_PATH="coverage/Practicals$list_to_dictionary.coverage" NAME="list_to_dictionary Coverage Results" MODIFIED="1535771534451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_05" />
+    <SUITE FILE_PATH="coverage/Practicals$cleanup_files.coverage" NAME="cleanup_files Coverage Results" MODIFIED="1539669030227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_09" />
     <SUITE FILE_PATH="coverage/Practicals$date.coverage" NAME="date Coverage Results" MODIFIED="1536038581588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
     <SUITE FILE_PATH="coverage/Practicals$car.coverage" NAME="car Coverage Results" MODIFIED="1535773503902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
     <SUITE FILE_PATH="coverage/Practicals$person_test.coverage" NAME="person_test Coverage Results" MODIFIED="1536563898507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_06" />
@@ -221,7 +219,7 @@
       <file leaf-file-name="os_demos.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Prac_09/os_demos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
+            <state relative-caret-position="492">
               <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#68#81#0" expanded="true" />
@@ -233,11 +231,9 @@
       <file leaf-file-name="cleanup_files.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Prac_09/cleanup_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="e#68#81#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -399,6 +395,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practicals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practicals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prac_09" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lyrics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Christmas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -420,6 +438,7 @@
       <recent name="C:\Users\avvisitor\Desktop\temp\Practicals\Prac_09\Lyrics" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\avvisitor\Desktop\temp\Practicals\Prac_09" />
       <recent name="C:\Users\jc462737\Desktop\CP1404 Temp\Practicals\Prac_08" />
     </key>
   </component>
@@ -435,25 +454,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.os_demos (1)">
-    <configuration default="false" name="taxi_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Practicals" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_08/taxi_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.cleanup_files">
     <configuration default="false" name="taxi_simulator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -522,6 +523,24 @@
       <module name="Practicals" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_09/os_demos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cleanup_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Practicals" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac_09/cleanup_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -735,19 +754,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.taxi_test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.taxi_simulator" />
-      <item index="2" class="java.lang.String" itemvalue="Python.language_file_reader" />
-      <item index="3" class="java.lang.String" itemvalue="Python.os_demos" />
-      <item index="4" class="java.lang.String" itemvalue="Python.os_demos (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.taxi_simulator" />
+      <item index="1" class="java.lang.String" itemvalue="Python.language_file_reader" />
+      <item index="2" class="java.lang.String" itemvalue="Python.os_demos" />
+      <item index="3" class="java.lang.String" itemvalue="Python.os_demos (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.cleanup_files" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.os_demos (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.os_demos" />
-        <item index="2" class="java.lang.String" itemvalue="Python.language_file_reader" />
-        <item index="3" class="java.lang.String" itemvalue="Python.taxi_simulator" />
-        <item index="4" class="java.lang.String" itemvalue="Python.taxi_test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.cleanup_files" />
+        <item index="1" class="java.lang.String" itemvalue="Python.os_demos (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.os_demos" />
+        <item index="3" class="java.lang.String" itemvalue="Python.language_file_reader" />
+        <item index="4" class="java.lang.String" itemvalue="Python.taxi_simulator" />
       </list>
     </recent_temporary>
   </component>
@@ -793,7 +812,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537248823191</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Start Prac_09&#10;">
+      <created>1539665208667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539665208667</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -815,11 +841,11 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32829374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32829374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986711" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39848813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -876,18 +902,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Prac_06/date.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Prac_06/dict.py" />
     <entry file="file://$PROJECT_DIR$/Prac_07/hello_world.py" />
     <entry file="file://$PROJECT_DIR$/Prac_07/id_demo.py" />
@@ -1021,7 +1040,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/Lib/site-packages/kivy/lang.py">
+    <entry file="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/lib/site-packages/kivy/lang.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="2140" column="32" selection-start-line="2140" selection-start-column="32" selection-end-line="2140" selection-end-column="32" />
@@ -1123,7 +1142,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prac_09/os_demos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
+        <state relative-caret-position="492">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="e#68#81#0" expanded="true" />
@@ -1131,13 +1150,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="321" column="0" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Prac_09/cleanup_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#68#81#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>

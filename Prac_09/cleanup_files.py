@@ -2,14 +2,7 @@
 CP1404/CP5632 Practical
 Demos of various os module examples
 """
-import shutil
 import os
-
-
-def get_fixed_filename(filename):
-    """Return a 'fixed' version of filename."""
-    new_name = filename.replace(" ", "_").replace(".TXT", ".txt")
-    return new_name
 
 
 def demo_walk():
@@ -27,5 +20,24 @@ def demo_walk():
             os.rename(current_name, new_name)
 
 
-# main()
+def get_fixed_filename(filename):
+    """Return a 'fixed' version of filename."""
+    temp_name = ""
+    for i, character in enumerate(filename):
+
+        if i == 0:
+            if character.islower():
+                temp_name += character.upper()
+            else:
+                temp_name += character
+        elif character.isupper():
+            temp_name += "_"
+            temp_name += character
+        else:
+            temp_name += character
+    print(temp_name)
+    temp_name.replace(" ", "_").replace(".TXT", ".txt")
+    return temp_name
+
+
 demo_walk()
